@@ -14,10 +14,11 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import RoadsPage from './components/RoadsPage';
 
 
+
 function App() {
   return (
     
-    <Router>
+    <Router basename={process.env.NODE_ENV === "production" ? "/mon-portfolio" : "/"}>
       <Header />
       <Routes>
         {/* Page d'accueil complète */}
