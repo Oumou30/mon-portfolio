@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter  as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -18,7 +18,7 @@ import RoadsPage from './components/RoadsPage';
 function App() {
   return (
     
-    <Router basename={process.env.NODE_ENV === "production" ? "/mon-portfolio" : "/"}>
+    <Router>
       <Header />
       <Routes>
         {/* Page d'accueil complète */}
