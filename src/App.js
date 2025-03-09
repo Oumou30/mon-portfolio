@@ -18,7 +18,7 @@ import RoadsPage from './components/RoadsPage';
 function App() {
   return (
     
-    <Router basename={process.env.NODE_ENV === "production" ? "/mon-portfolio" : "/"}>
+    <Router>
       <Header />
       <Routes>
         {/* Page d'accueil complète */}
