@@ -67,7 +67,7 @@ function Projects() {
               <Link to={project.link}>
                 <img src={project.image} alt={project.title} className={
           project.id === 5 || project.id === 6
-            ? "w-full h-[440px] object-cover"  
+            ? "w-full h-[400px] object-cover"  
             : "w-full h-auto"             
         } />
               </Link>
