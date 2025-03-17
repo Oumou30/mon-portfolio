@@ -30,7 +30,7 @@ function ClubSportifPage() {
     <>
 
       {/* BANNIÈRE AVEC IMAGE DE FOND + SUPERPOSITION */}
-      <div className="relative h-[250px] flex items-center justify-center text-center text-white bg-cover bg-center"
+      <div className="relative h-[450px] flex items-center justify-center text-center text-white bg-cover bg-center"
         style={{ backgroundImage: "url('/images/ig5.jpg')" }} 
       >
         {/* SUPERPOSITION BLEUE TRANSPARENTE */}
@@ -54,7 +54,6 @@ function ClubSportifPage() {
             className="w-full h-full object-contain rounded-lg shadow-lg transition-opacity duration-700 ease-in-out"
           />
 
-          {/* Indicateurs (dots) */}
           <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex space-x-2">
             {images.map((_, index) => (
               <button

@@ -8,7 +8,7 @@ function MotsCroisses() {
       <Header />
 
       {/* BANNIÈRE AVEC IMAGE DE FOND + SUPERPOSITION */}
-      <div className="relative h-[320px] flex items-center justify-center text-center text-white bg-cover bg-center"
+      <div className="relative h-[450px] flex items-center justify-center text-center text-white bg-cover bg-center"
         style={{ backgroundImage: "url('/images/mc1.jpeg')" }}
       >
         {/* SUPERPOSITION BLEUE TRANSPARENTE */}

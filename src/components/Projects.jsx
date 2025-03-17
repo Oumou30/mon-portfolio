@@ -45,7 +45,7 @@ function Projects() {
     },
     {
       id: 6,
-      title: 'Gestion des moyens de transports',
+      title: 'Moyens de transports',
       type: 'Application mobile',
       date: 'juin. 2024',
       image: '/images/moyenTransport.jpeg',

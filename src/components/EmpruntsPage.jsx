@@ -29,11 +29,11 @@ function EmpruntsPage() {
       <Header />
 
       {/* BANNIÈRE AVEC IMAGE DE FOND + SUPERPOSITION */}
-      <div className="relative h-[320px] flex items-center justify-center text-center text-white bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/emprunts/gd01.jpg')" }} 
+      <div className="relative h-[450px] flex items-center justify-center text-center text-white bg-cover bg-center"
+        style={{ backgroundImage: "url('/images/emprunts/emprunts1.jpg')" }} 
       >
         {/* SUPERPOSITION BLEUE TRANSPARENTE */}
-        <div className="absolute inset-0 bg-blue-700 opacity-80"></div>
+        <div className="absolute inset-0 bg-blue-600 opacity-60"></div>
 
         {/* CONTENU DU TEXTE */}
         <div className="relative z-10">

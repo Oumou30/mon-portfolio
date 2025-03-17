@@ -20,7 +20,7 @@ function App() {
     
     <Router>
       <Header />
-      <Routes>
+      <Routes className="pt-20 min-h-screen bg-gray-100">
         {/* Page d'accueil complète */}
         <Route path="/" element={
           <div>

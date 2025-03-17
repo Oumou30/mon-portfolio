@@ -15,7 +15,7 @@ function Contact() {
           </p>
         </div>
 
-        {/*  Bloc Informations + Icônes */}
+        {/*  Bloc Informations */}
         <div className="flex flex-col space-y-4">
           
           {/* Informations */}
@@ -36,7 +36,7 @@ function Contact() {
               <span className="text-blue-500 text-lg">
                 <i className="fas fa-envelope"></i>
               </span>
-              <span className="text-gray-700">oumou-sadio.bah@etudiant.univ-rennes.fr</span>
+              <span className="text-gray-700">oumousadio328@gmail.com</span>
             </div>
           </div>
 
