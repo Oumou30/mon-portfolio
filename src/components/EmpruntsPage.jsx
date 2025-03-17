@@ -74,7 +74,7 @@ function EmpruntsPage() {
             <p className="text-gray-600"><strong>Type :</strong> Application Web</p>
             <p className="text-gray-600"><strong>Technologies :</strong> NextJS, MySQL, Python, Django</p>
             <p className="text-gray-600"><strong>Statut :</strong> Projet en cours</p>
-            <p className="text-gray-600"><strong>Url du repo :</strong> <a href="https://github.com/Oumou30/LoanExpress.git">Voir le repo</a></p>
+            <p className="text-gray-600"><strong>Url du repo :</strong> <a href="https://github.com/Oumou30/LoanExpress.git" className="text-blue-500 underline">Voir le repo</a></p>
           </div>
 
           {/* Bloc Description */}

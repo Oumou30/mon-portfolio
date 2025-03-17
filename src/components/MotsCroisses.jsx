@@ -44,7 +44,7 @@ function MotsCroisses() {
             <p className="text-gray-600"><strong>Type :</strong> Jeu intéractif</p>
             <p className="text-gray-600"><strong>Technologies :</strong> Java, JavaFX, JUnit5</p>
             <p className="text-gray-600"><strong>Statut :</strong> Projet terminé</p>
-            <p className="text-gray-600"><strong>Genre :</strong> Jeu de stratégie</p>
+            <p className="text-gray-600"><strong>Url du repo :</strong> <a href="https://github.com/Oumou30/MotsCroisses" className="text-blue-500 underline">Voir le repo</a></p>
           </div>
 
           {/* Bloc Description */}
