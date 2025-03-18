@@ -23,7 +23,7 @@ function Projects() {
       id: 3,
       title: 'Gestion des déchets',
       type: 'Application web',
-      date: 'Juin. 2018',
+      date: 'Juin. 2022',
       image: '/img_morpion.jpg',
       link: '/gestion-dechets',
     },

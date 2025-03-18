@@ -24,13 +24,12 @@ function Contact() {
               <span className="text-blue-500 text-lg">
                 <i className="fas fa-map-marker-alt"></i>
               </span>
-              <span className="text-gray-700">Cesson-Sévigné, France</span>
+              <span className="text-gray-700">Rennes, France</span>
             </div>
             <div className="flex items-center space-x-2">
               <span className="text-blue-500 text-lg">
                 <i className="fas fa-phone"></i>
               </span>
-              <span className="text-gray-700">+33 7 44 75 39 79</span>
             </div>
             <div className="flex items-center space-x-2">
               <span className="text-blue-500 text-lg">

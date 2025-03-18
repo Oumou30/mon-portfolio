@@ -40,8 +40,7 @@ function About() {
               <div className="text-center sm:text-left sm:ml-6 mt-4 sm:mt-0 w-full">
                 <h3 className="text-lg font-bold mb-2">Oumou Sadio BAH</h3>
                 <p className="text-md mb-2"><strong>Fonction :</strong> Étudiante en Master 1 MIAGE</p>
-                <p className="text-md mb-2"><strong>Email :</strong> oumou-sadio.bah@etudiant.univ-rennes.fr</p>
-                <p className="text-md"><strong>Téléphone :</strong> +33 7 44 75 39 79</p>
+                <p className="text-md mb-2"><strong>Email :</strong> oumousadio328@gmail.com</p>
               </div>
             </div>
 
